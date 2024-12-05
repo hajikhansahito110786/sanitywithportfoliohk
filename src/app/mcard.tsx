@@ -3,8 +3,7 @@ import Image from "next/image"
 import img from "./butterfly1.jpg"
 
 
-import Api1 from "./api/api1";
-import { client } from "@/sanity/lib/client";
+
 export default function Mcard1() {
   return (
     <div className="h-[90vh] bg-green-400 flex flex-col items-center justify-center ">

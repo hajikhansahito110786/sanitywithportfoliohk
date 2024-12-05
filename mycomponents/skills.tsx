@@ -18,7 +18,7 @@ import {
 
 export function Skills() {
   return(
-    <div className="h-[90vh] bg-green-400 flex flex-col items-center justify-center ">
+    <div className="bg-yellow-200 h-24  ">
     <Card >
           <CardHeader>
             <CardTitle>Skills</CardTitle>
